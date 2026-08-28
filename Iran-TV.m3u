@@ -1,0 +1,256 @@
+#EXTM3U
+
+#EXTINF:-1,001 - IRIB 1
+https://gr1-cdn.sepehrtv.org/securelive3/tv1hd/720p.m3u8?s=Cv_DzW0FTdBrm7VeVNyXlA&t=1787946917
+
+#EXTINF:-1,002 - IRIB 2
+https://gr1-cdn.sepehrtv.org/securelive3/tv2hd/720p.m3u8?s=AmnnCW-fZp8ZJH4HsWmfGQ&t=1787947122
+
+#EXTINF:-1,003 - Irib 3
+https://gr1-cdn.sepehrtv.org/securelive3/tv3sathd/576p.m3u8?s=IlBYY3mC1uBgK9_Ox54F4Q&t=1787923502
+
+#EXTINF:-1,004 - Irib 4
+https://nl2-cdn.sepehrtv.org/securelive3/tv4sd/576p.m3u8?s=Nm-418dWecRNYlqsPXOSvA&t=1787947169
+
+#EXTINF:-1,005 - Irib 5
+https://nl1-cdn.sepehrtv.org/securelive3/tv5hd/432p.m3u8?s=nRgrIk3qR2jq78z3igSQgw&t=1787947208
+
+#EXTINF:-1,006 - IRIB Khabar 1
+https://gr1-cdn.sepehrtv.org/securelive3/irinnhd/432p.m3u8?s=gzP0Edjj20Ku4_1sQYFKlA&t=1787947242
+
+#EXTINF:-1,007 - IRIB Khabar 2
+https://nl2-cdn.sepehrtv.org/securelive3/irinn2sd/324p.m3u8?s=V6dWw4mCgtanwyhGiErISA&t=1787947289
+
+#EXTINF:-1,008 - Irin Nasim
+https://gr1-cdn.sepehrtv.org/securelive3/nasimhd/432p.m3u8?s=gj55fgkp75415m62cJ476A&t=1787947320
+
+#EXTINF:-1,009 - Irib iFilm Farsi 1
+https://nl2-cdn.sepehrtv.org/securelive3/ifilmhd/720p.m3u8?s=3zkwtfu33MIcWqDdll4NFQ&t=1787947366
+
+#EXTINF:-1,010 - iFilm 2
+https://nl1-cdn.sepehrtv.org/securelive3/ifilm2sd/576p.m3u8?s=LhzX2toKmXtGSqA0RYyzIQ&t=1787947415
+
+#EXTINF:-1,011 - Irib Ofogh
+https://nl1-cdn.sepehrtv.org/securelive3/ofoghhd/1080p.m3u8?s=RwXwpwIcu3SpLS3hBRTDzQ&t=1787947465
+
+#EXTINF:-1,012 - Hamshahri TV
+https://live.gozideplay.ir/hls/hamshahri/2_1/index.m3u8?tkn=67477471
+
+#EXTINF:-1,013 - Irib Tabriz
+https://nl1-cdn.sepehrtv.org/securelive3/sahandsd/576p.m3u8?s=kW-k2kAYdw9Z2_zmZQ2f1w&t=1787947509
+
+#EXTINF:-1,014 - ON TV
+https://ontv.arvanlive.ir/hls/websitechannel21/websitechannel21_1080/index.m3u8
+
+#EXTINF:-1,015 - Enghelab
+https://hls.irannrtv.live/hls/stream.m3u8
+
+#EXTINF:-1,016 - Iran International
+https://live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
+
+#EXTINF:-1,017 - Dej
+https://rdejhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,018 - MelliG TV
+https://mellihls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,019 - Novin TV
+https://stream.novin.live/hls/playlist.m3u8
+
+#EXTINF:-1,020 - Payam Javan TV
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1935785901.m3u8
+
+#EXTINF:-1,021 - BBC Persian
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1,022 - VOA Persian
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_0360.m3u8
+
+#EXTINF:-1,023 - Nahade Azadi
+https://livestream.5centscdn.com/nahadeazadi/14a66ff6dca989d3a2eb0dc8cdb50892.sdp/chunks.m3u8
+
+#EXTINF:-1,024 - Channel One
+https://livestream.5centscdn.com/channelonehd/0d0dd9d8b4933ea5f0a3a9495707c004.sdp/playlist.m3u8
+
+#EXTINF:-1,025 - Pars TV
+https://livestream.5centscdn.com/parstvtvweb1/e8ac8f595b3003ea3d22178c05c67593.sdp/chunks.m3u8
+
+#EXTINF:-1,026 - Zed TV
+https://zedhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,027 - Setareh TV
+https://setarehhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,028 - Project Leon
+https://pleonhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,029 - GordAfarid TV
+https://gatvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,030 - Pulse Media
+https://pulsehls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,031 - Iran Independent TV
+https://mediamtx.elitelatrade.com/live/stream/main_stream.m3u8
+
+#EXTINF:-1,032 - ITN TV
+https://itnhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,033 - YourTime TV
+https://live.yourtime.tv/hls/stream.m3u8
+
+#EXTINF:-1,034 - Ekran Movies
+https://spf-onetv-9i4j.cfcross.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
+
+#EXTINF:-1,035 - MTC
+https://mtchls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,036 - Avang TV
+https://hls.avang.live/hls/stream.m3u8
+
+#EXTINF:-1,037 - Radio Javan TV
+https://rjtvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,038 - Navahang TV
+https://hls.navahang.live/hls/stream.m3u8
+
+#EXTINF:-1,039 - Tapesh
+https://hls.tapeshtv.live/hls/stream.m3u8
+
+#EXTINF:-1,040 - T2 TV
+https://t2hls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,041 - T2 Movies
+https://spf-onetv-9i4j.cfcross.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
+
+#EXTINF:-1,042 - 4U TV
+https://hls.4utv.live/hls/stream.m3u8
+
+#EXTINF:-1,043 - 4U Family
+https://familyhls.4utv.live/hls/stream.m3u8
+
+#EXTINF:-1,044 - Oxir TV
+https://hls.oxir.live/hls/stream.m3u8
+
+#EXTINF:-1,045 - Khatereh TV
+https://radio.khatereh.online:5443/LiveApp/streams/jWF37YKCgZ0FSYTR863687974499636.m3u8
+
+#EXTINF:-1,046 - ICC TV
+https://icchls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,047 - SL 1
+https://slonehls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,048 - SL 2
+https://sltwohls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,049 - Goldstar TV
+https://moviethls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,050 - FX TV 1
+https://fxtvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,051 - FX TV 2
+https://toonixhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,052 - Cinex
+https://gcinemahls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,053 - Ava Family
+https://spf-onetv-9i4j.cfcross.workers.dev/?url=https://ca-rt.onetv.app/AVAFamily/index-0.m3u8
+
+#EXTINF:-1,054 - Ava Series
+https://avaserieshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,055 - TM TV
+https://hls.tmtv.live/hls/stream.m3u8
+
+#EXTINF:-1,056 - Net TV
+https://nethls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,057 - Afra Film
+https://afrafhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,058 - Royal TV
+https://arvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,059 - Arko TV
+https://arkhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,060 - Maah TV
+https://hls.maahtv.live/hls/stream.m3u8
+
+#EXTINF:-1,061 - Arax TV
+https://araxhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,062 - Persiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1,063 - Persiana Series
+https://onehls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1,064 - Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1,065 - Persiana Korea
+https://korhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1,066 - Persiana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1,067 - Persiana Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1,068 - Persiana Reality
+https://realhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1,069 - Persiana Türkiye
+https://turkhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1,070 - Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1,071 - Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1,072 - Persiana SetMix
+https://setmixhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1,073 - Persiana Voyage
+https://voyhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1,074 - Persiana Sonati
+https://sonhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1,075 - Omid-e Iran TV
+https://oitnhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,076 - Home Plus
+https://homeplushls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,077 - Irane Farda
+https://iranefardalive.com/stream/live.m3u8
+
+#EXTINF:-1,078 - Datis TV
+https://dathls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,079 - Classic TV
+https://clshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,080 - Romantico TV
+https://live.livestreamtv.ca/romanticotvshow/playlist.m3u8
+
+#EXTINF:-1,081 - Today TV
+https://live.ontodaytv.com/hls/ontoday.m3u8
+
+#EXTINF:-1,082 - Hambastegi TV
+https://livestream.5centscdn.com/HambastegiTV/7f3e29c26468b5b1036c2fbe536b5c7b.sdp/playlist.m3u8
+
+#EXTINF:-1,083 - Meta Film
+https://metafilmhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,084 - Cafe Film
+https://cafefhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,085 - Ravi TV
+https://hls.ravitv.com/hls/stream.m3u8
